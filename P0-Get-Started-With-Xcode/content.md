@@ -1,24 +1,23 @@
 ---
-title: Get Started with Xcode!
+title: "Xcodeを始めよう！"
 slug: installing-xcode
 ---
 
-This tutorial will guide you through installing Xcode and get you started on your iOS developer journey.
+このチュートリアルでXcodeのインストールの仕方を学び、iOSアプリ開発の旅をスタートさせましょう！
 
-You should be on macOS Sierra (10.13.2+) and have Xcode 8.2+. **DO NOT INSTALL ANY DEVELOPER PREVIEWS OF OS X, iOS, OR Xcode!!!**
+使っているMacがmacOS Sierra (10.13.2+)で、Xcode 8.2+を持っている必要があります。**開発者用のバージョンをインストールしないように注意しましょう！**
 
-Let's get our tools set up.
+# macOSを確認
 
-# Checking macOS
-
-Click the 🍎 button on the top left of your Mac screen and click `About this Mac`. It should say `macOS High Sierra` and `Version 10.13.2`. If it does not say `macOS High Sierra`, go [here](https://itunes.apple.com/us/app/macos-high-sierra/id1246284741?mt=12) and install High Sierra.
+左上の🍎 ボタンをクリックして、`About this Mac`をクリックします。`macOS High Sierra`と`Version 10.13.2`が表示されているはずです。もし`macOS High Sierra`でなかったら、[ここ](https://itunes.apple.com/us/app/macos-high-sierra/id1246284741?mt=12)からHigh Sierraをインストールしましょう。
 
 If it does not say `Version 10.13.2` but _does_ say `macOS High Sierra`, click the 🍎 button on the top left of your Mac screen and click `App Store`. Install the updates!
+もし、`Version 10.13.2`ではないけれど`macOS High Sierra`と表示されていたら、🍎ボタンを押して、`App Store`をクリックしましょう。アップデートをインストールしましょう！
 
-# Installing Xcode
+# Xcodeをインストールする
 
-Go to the Mac App Store to download [Xcode](https://itunes.apple.com/us/app/xcode/id497799835?mt=12) (our integrated development environment or IDE). Make sure you are using the most up to date version from the App Store (not developer preview versions). Drag Xcode onto your dock from your Applications folder so that you can easily access it. **If you already have Xcode installed, make sure that you have the most up to date version!**
+App Storeへ行き[Xcode](https://itunes.apple.com/us/app/xcode/id497799835?mt=12)をインストールします。（開発者用のバージョンをインストールしないように注意）もし既にXcodeを持っていたら、最新バージョンにアップデートされているかを確認しましょう！
 
-# Ready to go!
+# 準備ができました！
 
-Once the installations have been completed, you are ready for the first day of Make School! See you soon 😁
+全てのインストールが完了したら、Make Schoolのクラスの準備が完了です！
