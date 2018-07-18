@@ -1,6 +1,6 @@
 ---
 title: "Xcodeを始めよう！"
-slug: installing-xcode
+slug: installing-xcode-jp
 ---
 
 このチュートリアルでXcodeのインストールの仕方を学び、iOSアプリ開発の旅をスタートさせましょう！
