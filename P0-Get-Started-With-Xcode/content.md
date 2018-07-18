@@ -11,7 +11,6 @@ slug: installing-xcode
 
 左上の🍎 ボタンをクリックして、`About this Mac`をクリックします。`macOS High Sierra`と`Version 10.13.2`が表示されているはずです。もし`macOS High Sierra`でなかったら、[ここ](https://itunes.apple.com/us/app/macos-high-sierra/id1246284741?mt=12)からHigh Sierraをインストールしましょう。
 
-If it does not say `Version 10.13.2` but _does_ say `macOS High Sierra`, click the 🍎 button on the top left of your Mac screen and click `App Store`. Install the updates!
 もし、`Version 10.13.2`ではないけれど`macOS High Sierra`と表示されていたら、🍎ボタンを押して、`App Store`をクリックしましょう。アップデートをインストールしましょう！
 
 # Xcodeをインストールする
